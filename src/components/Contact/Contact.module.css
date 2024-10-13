@@ -1,0 +1,42 @@
+.contact_item {
+    display: flex;
+    border: 1px solid #000;
+    border-radius: 4px;
+    padding: 15px;
+    width: 468px;
+    justify-content: space-between;
+    }
+    
+    .contact_det {
+        display: block;
+        width: 380px;
+    };
+    
+    
+    .cont_name {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+    
+    .contact_phone {
+        display: flex;
+        align-items: center;
+    gap: 12px;
+    }
+    
+    .name {
+        font-size: 22px;
+        font-weight: 500;
+        margin: 0;
+    }
+    
+    .button {
+        display: flex;
+        align-items: center;
+        background-color: lightgrey;
+        margin: auto;
+        border: 1px solid #000;
+        /* padding-top: 4px;
+        padding-bottom: 4px; */
+    }

@@ -1,0 +1,16 @@
+.searchbox {
+    text-align: left;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+  
+  .searchbox_title {
+      margin-bottom: 8px;
+  }
+  
+  .searchbox_input {
+      width: 484px;
+      padding: 8px;
+      font-size: 20px;
+  }
